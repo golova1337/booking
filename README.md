@@ -30,6 +30,10 @@ Fill in the required values in .env.
 docker-compose up -d
 ```
 
+### 5. Go to
+
+localhost:3000/api
+
 ### 5. Stop Docker
 
 ```bash
