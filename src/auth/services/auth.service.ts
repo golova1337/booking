@@ -12,7 +12,7 @@ import { User } from '../entities/user.entity';
 import { TokenRepository } from '../repositories/token.repository';
 import { UserRepository } from '../repositories/user.repository';
 import { JwtTokenService } from './jwt.service';
-import { TokensDto } from '../dto/api/tokens.dto';
+import { TokensDto } from '../dto/openapi/tokens.dto';
 import { JwtPayload } from '../strategies/accessToken.strategy';
 
 @Injectable()
