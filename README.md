@@ -1,5 +1,11 @@
 # NestJs-Postgres-Docker Setup
 
+## Description of the features implemented
+
+User registration and booking features were developed using the NestJS framework and a PostgreSQL database. Secure access was set up using JWT authentication with both access and refresh tokens, managed through the Passport JWT strategy. Roles were added to control user access, so each user can only perform actions allowed for their role.
+
+All booking requirements were fully met, providing a smooth and reliable booking experience. The system is secure, easy to use, and ready to handle different user needs.
+
 ## Prerequisites
 
 1. **Git**: Ensure Git is installed to clone the repository.
